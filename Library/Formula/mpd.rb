@@ -2,8 +2,8 @@ require 'formula'
 
 class Mpd < Formula
   homepage 'http://www.musicpd.org/'
-  url 'http://www.musicpd.org/download/mpd/0.17/mpd-0.17.5.tar.bz2'
-  sha1 '91e4d8d364a3db02e6f92676dd938880e5bb200a'
+  url 'http://www.musicpd.org/download/mpd/0.18/mpd-0.18.tar.gz'
+  sha1 '382adb07724c6e84718f2816dc0d786657b79cf3'
 
   head 'git://git.musicpd.org/master/mpd.git'
 
